@@ -1,0 +1,16 @@
+name: R graph gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: http://elenius.github.io/rgraphgallery
+author:
+    name: Micke
+    twitter: #
+exclude:
+    - LICENSE
+    - README.md
+    - CNAME
+    - rgraphgallery.Rproj
+    - /R
+    - /R-plots
+    - create_gallery.R
