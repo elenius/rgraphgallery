@@ -1,5 +1,5 @@
 name: R graph gallery
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: /:year/:month/:title/
 url: http://elenius.github.io/rgraphgallery
