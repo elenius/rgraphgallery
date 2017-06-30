@@ -1,6 +1,6 @@
 name: R graph gallery
 markdown: kramdown
-pygments: true
+highlighter: rouge
 permalink: /:year/:month/:title/
 url: http://elenius.github.io/rgraphgallery
 author:
